@@ -47,7 +47,7 @@ console.log(`Are any numbers over 25 (not need to use the NOT operator)?`, areLa
 
 // Part 2 -------------------------------------------------------------------------
 
-console.log(`Part 1: Practical Math`)
+console.log(`Part 2: Practical Math`)
 
 const tripDistance = 1500;
 const speed55ph = 30;
@@ -78,8 +78,10 @@ console.log(`Travelling spending:
 - at 60 miles per hour $${costTrip60ph.toFixed(2)} ${trip60phGallon} gallons, and the trip will last ${tripDurantion60} hours
 - at 75 miles per hour $${costTrip75ph.toFixed(2)} ${trip75phGallon} gallons, and the trip will last ${tripDurantion75} hours.`);
 
-
 // Part 3 -------------------------------------------------------------------------
+console.log(`Part 3:Future Exploration`)
+
+
 
 
 
